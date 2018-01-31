@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```````ruby
-DevCampViewTool::Renderer.copyright 'Dillon Porter', 'All rights reserved'
+https://github.com/dillonporter/dillon_view_tool
 ````````
 ## Development
 
